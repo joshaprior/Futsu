@@ -1,0 +1,7 @@
+name: Futsu
+version: ${project.version}
+main: nl.joshaprior.futsu.Futsu
+api-version: 1.14
+description: Futsu AntiCheat
+depend:
+  - ProtocolLib
